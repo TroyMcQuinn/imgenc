@@ -1,0 +1,27 @@
+body{
+  background-color: #003366;
+  font-family: Tahoma, Helvetica, Arial, sans-serif;
+  font-size: 80%;
+  padding-top: 32px;
+}
+
+form{
+  background-color: #EEEEEE;
+  width: 500px;
+  margin: auto;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 4px 4px 8px rgba(0,0,0,0.8);
+}
+
+input[type=number], input[type=password]{
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  margin-bottom: 2px;
+  margin-right: 4px;
+  padding: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
